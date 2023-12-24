@@ -1,0 +1,11 @@
+I DO NOT OWN ANY OF THE ASSETS MIRRORED IN THIS DIRECTORY.
+THESE ARE OPEN SOURCE FONTS PROVIDED BY THEIR AUTHORS - ALL THE FILES ARE 
+BACKED UP HERE WITHOUT MODIFICATION AND THE ONLY PURPOSE OF 
+THIS MIRROR IS TO GUARANTEE THE FUNCTIONALITY OF MY WEBSITE IN CASE THE 
+SOURCE HOSTING PROVIDER IS INTRODUCING BREAKING CHANGES IN THEIR API
+
+SOURCE PROVIDER: https://fonts.googleapis.com/css
+PROVIDER LICENCES: https://fonts.google.com/attribution
+
+Self-Host font generator: https://google-webfonts-helper.herokuapp.com/fonts
+Useful blog post: https://webdesign.tutsplus.com/tutorials/how-to-self-host-google-fonts--cms-34775

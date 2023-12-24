@@ -1,0 +1,14 @@
+/* saira-extra-condensed-500 - latin */
+@font-face {
+    font-family: 'Saira Extra Condensed';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''), url('./bin/saira-exra-condensed/saira-extra-condensed-v6-latin-500.woff2') format('woff2')
+}
+/* saira-extra-condensed-700 - latin */
+@font-face {
+    font-family: 'Saira Extra Condensed';
+    font-style: normal;
+    font-weight: 700;
+    src: local(''), url('./bin/saira-exra-condensed/saira-extra-condensed-v6-latin-700.woff2') format('woff2')
+}

@@ -1,0 +1,28 @@
+/* Muli - latin */
+@font-face {
+    font-family: 'Muli';
+    font-style: italic;
+    font-weight: 400;
+    src: local(''), url('./bin/muli/Muli-latin-400-italic.woff2') format('woff2');
+}
+/* Muli - latin */
+@font-face {
+    font-family: 'Muli';
+    font-style: italic;
+    font-weight: 800;
+    src: local(''), url('./bin/muli/Muli-latin-800-italic.woff2') format('woff2');
+}
+/* Muli - latin */
+@font-face {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''), url('./bin/muli/Muli-latin-400.woff2') format('woff2');
+}
+/* Muli - latin */
+@font-face {
+    font-family: 'Muli';
+    font-style: normal;
+    font-weight: 800;
+    src: local(''), url('./bin/muli/Muli-latin-800.woff2') format('woff2');
+}
